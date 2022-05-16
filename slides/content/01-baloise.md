@@ -1,20 +1,10 @@
 ![](https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg)
 
-We ♥ [(digital) sustainability : open-source](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it-security.html)
+We ♥ [(digital) sustainability : open-source](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it.html)
 
 -- 
 
 ![](https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg)
-
--- 
-
-![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
-
-[@MarkusTiede](https://twitter.com/MarkusTiede) - software engineer @ [Baloise Group](https://twitter.com/Baloise_Group)
-
-board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
-
-![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
 
 ---
 
@@ -160,9 +150,5 @@ champion?
 https://ospo101.org
 
 --
-
-## thanks!
-
-### q&a?
 
 [available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
