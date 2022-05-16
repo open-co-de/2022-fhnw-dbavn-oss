@@ -22,6 +22,6 @@ containing 1m+ LoC: find slides/reveal.js/ -name '*.js' | xargs cat | wc -l
 
 ---
 
-manage intellecutal property, licenses & more
+manage [intellecutal property, licenses & much more](https://github.com/todogroup/ospo101/blob/main/module5/README.md#open-source-licensing-and-compliance-basics)
 
-(lightweight) OSPO
+create (lightweight) [OSPO](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
