@@ -6,7 +6,7 @@ decentralized (forks), async collaboration on (many) sources (git)
 
 https://github.com/hakimel/reveal.js
 
-automatically managed & derived, reusable (semver, bin) modules & apps
+automatically managed & derived, reusable ([semver](https://semver.org), bin) modules & apps
 
 https://github.com/open-co-de/2022-fhnw-dbavn-oss
 
