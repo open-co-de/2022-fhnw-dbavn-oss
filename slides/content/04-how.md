@@ -20,12 +20,8 @@ containing 1m+ LoC: find slides/reveal.js/ -name '*.js' | xargs cat | wc -l
 
 ## transitivity
 
---
-
-manage IP, licenses & more
-
-(lightweight) OSPO
-
 ---
 
-decentralized, async collaboration on (many) sources (git)
+manage intellecutal property, licenses & more
+
+(lightweight) OSPO
