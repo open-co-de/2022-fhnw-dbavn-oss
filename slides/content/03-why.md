@@ -62,7 +62,7 @@ open core
 
 --
 
-defense &| attack
+3+ companies : cost saving case
 
 e.g. playing the platform game by [BOSCH - 18f](https://open-insurance.org/events/2019/open-insurance-day-00.html)
 
@@ -70,4 +70,4 @@ e.g. playing the platform game by [BOSCH - 18f](https://open-insurance.org/event
 
 ![](https://digifinmasters.com/wordpress/wp-content/uploads/2020/01/Image4-1200x590.png)
 
-Android <-> iOS
+defense &| attack: Android <-> iOS
