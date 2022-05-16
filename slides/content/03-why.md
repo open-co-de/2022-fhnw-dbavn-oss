@@ -22,9 +22,15 @@ mitigate know-how &| vendor lock-in
 
 high(er) security
 
+--
+
+# [more...](https://github.com/todogroup/ospo101/blob/main/module1/README.md#the-business-perspective)
+
 ---
 
 # contribute
+
+http://listen.hatnote.com
 
 --
 

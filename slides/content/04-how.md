@@ -1,5 +1,9 @@
 # how?
 
-licenses
+decentralized, async collaboration on sources
 
-reusable modules + semver
+automatically derived reusable (semver, bin) modules & apps
+
+manage IP, licenses & more
+
+(lightweight) OSPO
