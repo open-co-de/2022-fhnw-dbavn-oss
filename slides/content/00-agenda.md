@@ -16,7 +16,7 @@ board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/640px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c7/121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 --
 
