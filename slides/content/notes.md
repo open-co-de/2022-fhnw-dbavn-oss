@@ -2,12 +2,6 @@
 
 <img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source%2Fissues%2F331&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
 
-### Source
-
-https://git-scm.com/about/branching-and-merging
-
-https://github.com/sindresorhus/awesome#contents
-
 #### hands-on
 
 ### Openness
@@ -24,14 +18,8 @@ https://github.com/todogroup/ospo101#course-outline
 
 #### hands-on
 
-https://www.openstreetmap.org >> Burgendossier
 https://youtu.be/NiaAVYF13g8
 
-### Digitale Souveränität & Nachhaltigkeit
-
-https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit
-
-https://youtu.be/YsAy80igzTI
 
 ## Feedback @ the end
 
@@ -42,7 +30,6 @@ via nuudel
 - https://nuudel.digitalcourage.de
 - https://wikitech.wikimedia.org/wiki/Etherpad.wikimedia.org
 - https://signal.org
-- https://www.portfolio-performance.info
 - https://brew.sh
 - https://obsproject.com
 - https://github.com/ExistentialAudio/BlackHole
