@@ -36,10 +36,10 @@ board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 
 ### 13.15 → 14 : 🏊
 
-### 14.15 → 15 : Open Data + 🏊
+### 14.15 → 15 : Open Data
 
 ### 15.15 → 16 : Digitale Nachhaltigkeit & Souveränität
 
-### 16.15 → 17 : 🏊 AMA & Feedback
+### 16.15 → 17 : 🏊 [AMA](https://etherpad.wikimedia.org/p/FHNW-DBVN-2022-oss-ama) & Feedback
 
 ## ✅
