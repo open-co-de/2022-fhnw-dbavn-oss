@@ -55,3 +55,7 @@ https://youtu.be/u36aUTIGeMA
 --
 
 https://landscape.cncf.io
+
+---
+
+https://www.openhub.net/p/kubernetes/estimated_cost
