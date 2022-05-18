@@ -1,8 +1,8 @@
 FHNW - Digital Business and Value Networks
 
-#### Open Source, Open Data und Digitale Nachhaltigkeit
+## Open Source, Open Data und Digitale Nachhaltigkeit
 
-16.05.2022
+### 2022.05
 
 -- 
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
