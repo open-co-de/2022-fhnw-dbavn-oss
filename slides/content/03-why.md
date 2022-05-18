@@ -8,19 +8,19 @@
 
 ## greed ⏱️ &| 💡 &| 💵
 
-time saving
+[time saving](https://mvnrepository.com/repos)
 
-"best of breed" : projects &| people
+"best of breed" : projects &| [people](https://octoverse.github.com/#lets-look-back-at-the-code-and-communities-built-on-git-hub-this-year)
 
-no primary license costs
+[no primary license costs](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms)
 
 --
 
 ## fear 😱
 
-mitigate know-how &| vendor lock-in 
+mitigate know-how &| vendor [lock-in](https://de.wikipedia.org/wiki/Lock-in-Effekt#Ursachen) 
 
-high(er) security
+[high](https://openssf.org/about/members/)(er) security
 
 --
 
